@@ -1,0 +1,21 @@
+From: Account Security <security@northstar-alert.example>
+To: customer@example.com
+Subject: Urgent: Your Account Access Will Be Suspended
+Date: 17 November 2026
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We detected unusual activity associated with your account.
+
+For your security, your account access may be temporarily suspended unless you verify your account immediately.
+
+Please complete the verification process within 2 hours using the link below:
+
+https://northstar-alert.example/account/verify
+
+Failure to complete verification may result in temporary account restrictions.
+
+Thank you,
+NorthStar Account Security Team

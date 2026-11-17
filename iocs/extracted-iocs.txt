@@ -1,0 +1,33 @@
+Project: Phishing Email Triage & IOC Investigation
+
+Case ID: SOC-002
+Sample: suspicious-email.eml
+Investigation Type: Simulated Phishing Email
+
+=== Extracted Indicators of Compromise ===
+
+1. Sender Email:
+security@northstar-alert.example
+
+2. Sender Domain:
+northstar-alert.example
+
+3. Suspicious URL:
+https://northstar-alert.example/account/verify
+
+4. URL Domain:
+northstar-alert.example
+
+=== Initial Assessment ===
+
+The email contains suspicious characteristics:
+- Urgent account suspension warning.
+- Two-hour verification deadline.
+- Threat of account restrictions.
+- Account verification link.
+
+Note: This is a controlled simulation.
+The .example domain is reserved for documentation
+and does not represent a real malicious domain.
+
+No live malicious infrastructure was contacted.
